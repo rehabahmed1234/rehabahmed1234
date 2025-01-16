@@ -1,5 +1,5 @@
 # 💫 About Me:
-- # Welcome to My Profile 👋<br><br>🏗️ A civil engineer with 20+ years of experience.<br>- 📊 Currently developing my skills in data science.<br>- 💻 Using Python, SQL, to uncover patterns and solve problems.<br>
+- # Welcome to My Profile 👋<br><br>🏗️ A civil engineer with 20+ years of experience.<br>- 📊 Currently developing my skills in data science.<br>- 💻 Using Python, SQL, to uncover patterns and solve problems.<br>www.linkedin.com/in/rehab-ahmed-339a52283<br><br>
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rehabahmed1234&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rehabahmed1234&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rehabahmed1234&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rehabahmed1234&limit=5&theme=default&combine_all_yearly_contributions=true)
